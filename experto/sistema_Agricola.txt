@@ -1,0 +1,27 @@
+Sistema Experto Agrícola.
+
+El objetivo principal de este proyecto es desarrollar un Sistema Experto Agrícola, capaz de brindar recomendaciones automatizadas 
+sobre qué cultivo es más adecuado según las condiciones ambientales de una zona determinada. Este sistema tiene como propósito 
+simular el razonamiento de un experto agrónomo, utilizando herramientas de inteligencia artificial basadas en reglas de decisión.
+
+La motivación para este desarrollo surge de la necesidad de facilitar la toma de decisiones en el sector agrícola, 
+especialmente en regiones donde los agricultores no cuentan con asesoría técnica constante o recursos suficientes para 
+realizar estudios especializados de suelo y clima. A través de una interfaz gráfica sencilla, el sistema permite que 
+cualquier persona —incluso sin experiencia técnica— pueda obtener recomendaciones confiables con base en datos básicos 
+como el tipo de suelo, la temperatura, el nivel de lluvias y la estación del año.
+
+Este tipo de aplicación puede tener impacto real en la productividad agrícola, promoviendo buenas prácticas
+ de siembra, optimizando el uso de recursos naturales y reduciendo el riesgo de pérdidas por cultivos mal 
+ adaptados al entorno. Además, se convierte en una herramienta educativa para estudiantes y profesionales que deseen 
+ comprender cómo se aplican los principios de la inteligencia artificial en problemas reales.
+
+Desde el punto de vista técnico, este proyecto permite integrar varias áreas del conocimiento:
+* Inteligencia Artificial (sistemas expertos)
+* Programación en Python
+* Interfaces gráficas (GUI con Tkinter)
+* Lógica de decisiones (reglas tipo “si-entonces”)
+* Persistencia de datos (manejo de archivos)
+
+En resumen, el sistema busca automatizar y democratizar el conocimiento agronómico, 
+haciéndolo accesible y útil tanto para productores rurales como para entornos académicos, mediante una 
+solución concreta desarrollada con herramientas de programación sencillas pero poderosas.

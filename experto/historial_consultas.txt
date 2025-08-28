@@ -1,0 +1,12 @@
+
+--- Consulta: 2025-08-28 11:43:16 ---
+Suelo: Arenoso, Lluvia: Media, Estación: Primavera, Temperatura: 50.0°C
+→ Cultivo recomendado: NO RECOMENDADO
+→ Motivo: No se encontró una coincidencia con las condiciones ingresadas.
+
+
+--- Consulta: 2025-08-28 12:58:57 ---
+Suelo: Arenoso, Lluvia: Media, Estación: Otoño, Temperatura: 50.0°C
+→ Cultivo recomendado: NO RECOMENDADO
+→ Motivo: No se encontró una coincidencia con las condiciones ingresadas.
+
