@@ -10,3 +10,9 @@ Suelo: Arenoso, Lluvia: Media, Estación: Otoño, Temperatura: 50.0°C
 → Cultivo recomendado: NO RECOMENDADO
 → Motivo: No se encontró una coincidencia con las condiciones ingresadas.
 
+
+--- Consulta: 2025-08-31 17:05:05 ---
+Suelo: Arenoso, Lluvia: Baja, Estación: Otoño, Temperatura: 50.0°C
+→ Cultivo recomendado: MANI
+→ Motivo: El maní prospera en suelos arenosos con climas cálidos y secos.
+
